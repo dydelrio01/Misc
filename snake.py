@@ -2,14 +2,14 @@ from tkinter import *
 import random
 
 #constants
-GAME_WIDTH = 725
-GAME_HEIGHT = 725
+GAME_WIDTH = 700
+GAME_HEIGHT = 700
 SPEED = 50
 SPACE = 50
 BODY_PARTS = 3
 SNAKE_COLOR = "#00FF00"
 FOOD_COLOR = "#FF0000"
-BACKGROUD_COLOR = "#000022"
+BACKGROUD_COLOR = "#000000"
 
 
 #definitions
