@@ -2,8 +2,8 @@ from tkinter import *
 import random
 
 #constants
-GAME_WIDTH = 700
-GAME_HEIGHT = 700
+GAME_WIDTH = 725
+GAME_HEIGHT = 725
 SPEED = 50
 SPACE = 50
 BODY_PARTS = 3
